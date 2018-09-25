@@ -1,2 +1,2 @@
 # QAcademico
-Exercício sobre diagramas de uso
+Exercício sobre diagramas de caso de uso
