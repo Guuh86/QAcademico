@@ -1,2 +1,2 @@
-# QAcademico
-Exercício sobre diagramas de caso de uso
+# q-academico
+Diagramas UML sobre o Q-Acadêmico
